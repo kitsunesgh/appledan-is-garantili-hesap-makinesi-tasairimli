@@ -1,92 +1,89 @@
-# epik-s-per-m-per-harika-tesi-hesap-makinesi-hem-de-tasar-ml-
-hesaplıyor 
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+************************************************************************************************************
+*                                                                                                          *
+*   Bu kod parçası, tamamen boş, anlamsız ve gereksiz ifadelerle donatılmış bir metin üretmek amacıyla yazılmıştır. *
+*   Her bir satırında, var olmayan anlamların, gereksiz tekrarlamaların ve boşlukların öyle bir araya geldiği   *
+*   bu kod, okuyanın aklını başından alacak kadar saçma, öyle ki; kodu okurken "hay ananı sikeyim, ne yazmış?" *
+*   diyeceksiniz.                                                                                         *
+*                                                                                                          *
+*   Bu belgenin amacı, sadece ve sadece anlamsızlığı yüceltmek, boşluğu ve gereksizliği bir sanat formuna   *
+*   dönüştürmektir. Her bir yorum satırı, kod bloğu ve fonksiyon, bu anlamsızlık içinde kaybolmuş boşluklara    *
+*   aittir. Bu nedenle, kodun her satırı, sanki anlamsızlığın en uç noktasına varmak için birbirini takip eden     *
+*   ölümsüz bir şiir gibidir.                                                                              *
+*                                                                                                          *
+************************************************************************************************************
+"""
 
-# Epik Süper Müper Harika Ötesi Hesap Makinesi Hem de Tasarımlı
+def empty_text_generator():
+    """
+    ----------------------------------------------------------------------
+    Bu fonksiyon, her ne kadar "boş metin" üretecek olsa da, 
+    aslında işlevsellikten çok, anlamsızlığın ve gereksiz uzunluğun sembolü haline 
+    gelmiş bir metni ekrana yazdırmak üzere tasarlanmıştır.
+    
+    Kelimeler, cümleler, satırlar... Hiçbir şeyin anlam ifade etmediği bu metin, 
+    okuyucunun zihninde tarifsiz bir boşluk, anlamsızlık ve öyle bir şaşkınlık yaratacaktır ki;
+    "hay ananı sikeyim, ne yazmış?" diyeceksiniz. Bu metin, modern zamanların dijital sanatının 
+    bir örneği olarak, boşluğu, anlamsızlığı ve gereksizliği bir araya getirir.
+    
+    Not: Kodun amacı, var olan hiçbir mantığı yansıtmak değil, tam tersine, tamamen anlamsız 
+    bir metin üretmektir. Bu yüzden, metindeki her bir kelime, okuyucuya öyle bir yoğunluk ve 
+    boşluk hissi verecek ki, satır aralarında kaybolmuş hissedeceksiniz.
+    ----------------------------------------------------------------------
+    """
+    text = (
+        "Bu metin, var olan tüm anlamlardan arınmış, tamamen boş ve anlamsız kelimelerle bezenmiş bir "
+        "yazıdır. Hiçbir mantık, hiçbir düzen ya da yapı barındırmayan, sadece ve sadece gereksiz "
+        "tekrarlamalarla dolu, sanki sonsuz boşluklara açılan bir kapı gibidir. Burada yazılan her kelime, "
+        "bir anlamın yoksunluğu, var olan her cümle, anlamsızlığın en uç noktasında bir yer edinmeye çalışır. "
+        "Okudukça, beyninizde bir karmaşa, zihninizde tarif edilemez bir boşluk hissi uyandıracak; "
+        "öyle ki, 'hay ananı sikeyim ne yazmış?' diyeceksiniz. İşte bu metin, yazıldığı anda, her bir satırında, "
+        "kelime aralarında, var olmayan derinlikleri barındıran, tamamen anlamsız bir yazının örnek halidir. "
+        "Düşünün ki; her kelime, anlamı sorgulayan, gereksiz uzunluklara saplanmış, boşlukların ve anlamsızlıkların "
+        "sonsuz tekrarıdır. Böyle bir metin, sadece yazıldığı için yazılmış, herhangi bir amaç veya işlev taşımayan, "
+        "boşluk ve anlamsızlık üzerine inşa edilmiş, modern zamanların dijital boşluk sanatı örneğidir. "
+        "Bu metinde, her satır, bir boşluk denizinde kaybolmuş, her cümle, anlamsızlığın derinliklerine dalmış gibidir. "
+        "Okurken, aklınızda hiçbir şey kalmayacak, sadece boşluğun ve anlamsızlığın ağırlığını hissedeceksiniz. "
+        "Ve işte o anda, gözlerinizin önünde beliren bu metin, 'hay ananı sikeyim, ne yazmış?' diyen bir şiir "
+        "gibi size seslenecek, çünkü hiçbir anlam ya da değer bu satırlarda saklı değildir, sadece uzatılmış, "
+        "gereksiz ve anlamsız bir deryadır. "
+        "............................................................................................................. "
+        "Burada, boşlukların en uç noktası, anlamsızlıkların zirvesiyle buluşur; her harf, her sözcük, "
+        "dijital bir çığlık gibi, anlamsızlığın ölümsüzlüğünü ilan eder. Bu, sadece bir kod parçası, sadece "
+        "bir denemedir. Hiçbir mantığa ihtiyaç duymadan, sadece ve sadece gereksiz uzunluğu ve boşluğu yüceltmek "
+        "amacıyla yazılmıştır. Okudukça, her cümlenin sonunda, var olmayan bir anlamın yoksunluğunu hissedecek, "
+        "zihninizde boşlukların yankısını duyacaksınız. "
+        "............................................................................................................. "
+        "İşte bu metin, kelimelerin, cümlelerin, satırların anlamsız birleşimidir; tamamen boş, tamamen anlamsız. "
+        "Hiçbir değer taşımaz, sadece bir boşluk ve anlamsızlık manifestosudur. Sanki, her kelimenin arasında bir boşluk "
+        "ve anlamsızlık saklıymış gibi, okuyanı kendine çeker, içine çeker ve sonunda, 'hay ananı sikeyim, ne yazmış?' "
+        "diyerek, bu anlamsızlığa boyun eğmeye zorlar. "
+    )
+    return text
 
-Bu proje, sıradan bir hesap makinesi deneyimini bambaşka bir boyuta taşıyarak kullanıcılarına yepyeni, akıllara durgunluk veren ve görsel açıdan da özenle tasarlanmış bir arayüz sunmayı amaçlamaktadır. Projemiz, her detayıyla “epik”, “süper”, “müper”, “harika” ve “ötesi” niteliklerini bünyesinde barındırırken; kullanıcı deneyimini en üst seviyeye çıkarmak, kullanım kolaylığı sağlamak ve modern web teknolojileriyle desteklenen dinamik işlevselliği sunmak üzere geliştirildi.
+def main():
+    """
+    ************************************************************************************************
+    *                                                                                              *
+    *   Ana fonksiyon, empty_text_generator fonksiyonunu çağırır, üretilen metni alır ve ekrana yazdırır. *
+    *   Bu işlev, kodun temel amacını, yani gereksiz uzunluğu ve anlamsız ifadeleri ortaya koymayı hedefler.  *
+    *   Her bir satır, okuyanı derin bir boşluk ve anlamsızlık içine çeker, aklınızda sorular uyandırır:  *
+    *   "Acaba bu kodda ne yazıyor? Hay ananı sikeyim, ne yazmış?"                                    *
+    *                                                                                              *
+    ************************************************************************************************
+    """
+    empty_text = empty_text_generator()
+    print(empty_text)
 
----
+if __name__ == "__main__":
+    main()
 
-## İçerik ve Genel Bakış
-
-Bu projede, HTML, CSS ve JavaScript kullanılarak geliştirilmiş olan hesap makinesi, temel aritmetik işlemleri (toplama, çıkarma, çarpma, bölme) gerçekleştirmek üzere tasarlanmıştır. Kullanıcılar, iki adet sayısal giriş alanına değer girip, üzerlerine tıklayarak ilgili matematiksel işlemi gerçekleştirebilirler. Her işlem sonucu, sayfa içerisinde anlık olarak güncellenen ve göz alıcı şekilde sunulan bir sonuç kutusunda görüntülenir. Proje sadece fonksiyonelliği ile değil, aynı zamanda modern, temiz ve akıllıca düzenlenmiş arayüz tasarımı ile de öne çıkmaktadır.
-
----
-
-## Kullanılan Teknolojiler
-
-- **HTML5:** Sayfanın temel yapısını oluşturmak, içerikleri semantik bir şekilde düzenlemek ve erişilebilirlik açısından avantaj sağlamak için kullanılmıştır.
-- **CSS:** Sayfanın stil ve tasarımını yönetmek, modern ve çekici bir kullanıcı arayüzü sunmak amacıyla dış bir stil dosyası (`css.css`) aracılığıyla uygulanmıştır.
-- **JavaScript:** Dinamik işlemleri gerçekleştirmek ve kullanıcı etkileşimlerine anında yanıt vermek için temel hesaplama fonksiyonları (topla, cıkar, carp, bol) ile birlikte kodun işlevselliğini artırmaktadır.
-
----
-
-## Proje Yapısı ve Kod İncelemesi
-
-### HTML & Temel Yapı
-
-Proje, modern web standartlarına uygun olarak hazırlanmıştır. Aşağıdaki HTML kodu, hesap makinesinin temel yapısını ortaya koymaktadır:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Panne bir şeyler denemekte</title>
-    <link rel="stylesheet" href="css.css">
-</head>
-<body>
-<div class="container">
-    <div class="inputs">
-        <input type="number" id="input1">
-        <input type="number" id="input2">
-    </div>
-    <div class="buttons">
-        <button onclick="topla()">Topla</button>
-        <button onclick="cıkar()">Çıkar</button>
-        <button onclick="carp()">Çarp</button>
-        <button onclick="bol()">Böl</button>
-        <div class="cevap">
-            <div id="sonuc"></div>
-        </div>
-    </div>
-</div>
-
-<div class="reklam">
-    <p>hello world</p>
-    <a href="https://www.rightwho.com">allah site</a> <br>
-    <a href="https://www.whus.xyz">Allah siteyi yapanlar</a>
-</div>
-
-<script>
-function topla() {
-    var input1 = document.getElementById("input1").value;
-    var input2 = document.getElementById("input2").value;
-    var sum = Number(input1) + Number(input2);
-    document.getElementById("sonuc").innerHTML = `Toplama işlemi sonucu : ${sum}`;
-}
-
-function cıkar() {
-    var input1 = document.getElementById("input1").value;
-    var input2 = document.getElementById("input2").value;
-    var sum = Number(input1) - Number(input2);
-    document.getElementById("sonuc").innerHTML = `Çıkarma işlemi sonucu : ${sum}`;
-}
-
-function carp() {
-    var input1 = document.getElementById("input1").value;
-    var input2 = document.getElementById("input2").value;
-    var sum = Number(input1) * Number(input2);
-    document.getElementById("sonuc").innerHTML = `Çarpma işlemi sonucu : ${sum}`;
-}
-
-function bol() {
-    var input1 = document.getElementById("input1").value;
-    var input2 = document.getElementById("input2").value;
-    var sum = Number(input1) / Number(input2);
-    document.getElementById("sonuc").innerHTML = `Bölme işlemi sonucu : ${sum}`;
-}
-</script>
-</body>
-</html>
+# ************************************************************************************************************
+# Bu kod, tamamen boş ve anlamsız ifadelerle dolu bir metin üretir. Yazım tarzı, modern dijital sanatın bir 
+# örneği olarak, gereksiz uzunluğu, anlamsız tekrarları ve boşlukları yüceltir. Kodun her satırı, okuyucunun 
+# zihninde derin bir boşluk ve anlamsızlık hissi uyandırmak üzere özenle hazırlanmıştır. 
+# Okuyunca "hay ananı sikeyim, ne yazmış?" diyeceğiniz bu kod, sadece ve sadece yazıldığı için yazılmış, herhangi 
+# bir işlev ya da mantık taşımayan, boşluk ve anlamsızlığın bir manifestosudur.
+# ************************************************************************************************************
