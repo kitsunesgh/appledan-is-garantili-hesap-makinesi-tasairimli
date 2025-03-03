@@ -1,0 +1,57 @@
+body {
+    color: #e0e0e0;
+    background-color: #121212;
+}
+
+.container {
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #333;
+    border-radius: 10px;
+
+}
+
+.inputs input {
+    width: 50px;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #444;
+    color: #e0e0e0;
+    font-size: 16px;
+
+}
+
+.buttons button{
+    background-color: tomato;
+    border: none;
+    color: white;
+    box-shadow: none;
+    border-radius: 3px;
+    width: 120px;
+    height: 30px;
+    
+}
+
+.cevap {
+    color: white;
+    text-align: center;
+    margin:  50px 0;
+    font-family: sans-serif;
+
+}
+
+
+.reklam a {
+color: white;
+text-decoration: none;
+}
+
+
+.reklam a:hover {
+    color: tomato;
+}

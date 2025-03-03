@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panne bir şeyler denemekte</title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+<div class="container">
+<div class="inputs">
+    <input type="number" id="input1">
+    <input type="number" id="input2">
+</div>
+<div class="buttons">
+    <button onclick="topla()">Topla</button>
+    <button onclick="cıkar()">Çıkar</button>
+    <button onclick="carp()">Çarp</button>
+    <button onclick="bol()">Böl</button>
+
+    <div class="cevap">
+        <div id="sonuc"></div>
+    </div>
+</div>
+</div>
+
+<div class="reklam">
+    <p>hello world</p>
+    <a href="https://www.rightwho.com">allah site</a> <br>
+    <a href="https://www.whus.xyz">Allah siteyi yapanlar</a>
+</div>
+
+
+<script>
+function topla() {
+    var input1 = document.getElementById("input1").value;
+    var input2 = document.getElementById("input2").value;
+
+    var sum = Number(input1) + Number(input2);
+
+    document.getElementById("sonuc").innerHTML = `Toplama işlemi sonucu : ${sum}`;
+}
+
+function cıkar() {
+    var input1 = document.getElementById("input1").value;
+    var input2 = document.getElementById("input2").value;
+
+    var sum = Number(input1) - Number(input2);
+
+    document.getElementById("sonuc").innerHTML = `Çıkarma işlemi sonucu : ${sum}`;
+}
+
+function carp() {
+    var input1 = document.getElementById("input1").value;
+    var input2 = document.getElementById("input2").value;
+
+    var sum = Number(input1) * Number(input2);
+
+    document.getElementById("sonuc").innerHTML = `Çarpma işlemi sonucu : ${sum}`;
+}
+
+function bol() {
+    var input1 = document.getElementById("input1").value;
+    var input2 = document.getElementById("input2").value;
+
+    var sum = Number(input1) / Number(input2);
+
+    document.getElementById("sonuc").innerHTML = `Bölme işlemi sonucu : ${sum}`;
+}
+</script>
+
+</body>
+</html>
